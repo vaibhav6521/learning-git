@@ -1,3 +1,7 @@
 vaibhav repo
 this is commit from vaibhav branch
+<<<<<<< HEAD
 This changes from master branch
+=======
+this change from vaibhav branch
+>>>>>>> vaibhav
